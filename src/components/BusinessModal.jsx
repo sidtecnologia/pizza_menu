@@ -17,8 +17,8 @@ const BusinessModal = () => {
         </div>
         
         <div>
-          <h2 className="text-2xl font-bold text-gray-800">Pollo Asado</h2>
-          <p className="text-gray-500">La mejor comida de Bucaramanga.</p>
+          <h2 className="text-2xl font-bold text-gray-800">Pizza Pizza</h2>
+          <p className="text-gray-500">La mejor Pizza de Bucaramanga.</p>
         </div>
 
         <div className="space-y-4 text-left bg-gray-50 p-4 rounded-xl">

@@ -106,10 +106,9 @@ const StoreContent = () => {
   const showSections = searchTerm === '' && selectedCategory === 'Todo';
 
   const banners = [
-    'https://flqtcvqykladelzvxrue.supabase.co/storage/v1/object/public/images/baner/baner1.webp',
-    'https://flqtcvqykladelzvxrue.supabase.co/storage/v1/object/public/images/baner/baner2.webp',
-    'https://flqtcvqykladelzvxrue.supabase.co/storage/v1/object/public/images/baner/baner3.webp',
-    'https://flqtcvqykladelzvxrue.supabase.co/storage/v1/object/public/images/baner/baner4.webp'
+    'https://ogycxpjbzmynkyivmdsz.supabase.co/storage/v1/object/public/images/baner/baner1.webp',
+    'https://ogycxpjbzmynkyivmdsz.supabase.co/storage/v1/object/public/images/baner/baner2.webp',
+    'https://ogycxpjbzmynkyivmdsz.supabase.co/storage/v1/object/public/images/baner/baner3.webp'
   ];
 
   return (
